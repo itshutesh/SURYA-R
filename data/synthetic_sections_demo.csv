@@ -1,0 +1,9 @@
+section_id,irradiance_w_m2,panel_temp_c,ambient_temp_c,observed_power_kw,synthetic_shortfall_for_demo_only
+Section 1,876.7,52.5,35.0,3.796,0.021
+Section 2,904.0,50.0,36.8,3.223,0.213
+Section 3,723.3,39.0,24.4,3.358,0.023
+Section 4,764.5,54.1,40.4,2.661,0.208
+Section 5,460.5,38.4,28.3,1.774,0.184
+Section 6,778.4,52.3,35.0,2.886,0.175
+Section 7,529.1,39.2,26.4,1.96,0.22
+Section 8,508.4,42.5,34.3,2.145,0.095
